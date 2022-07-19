@@ -1,0 +1,161 @@
+Date,Time,Code,Source,Message,
+
+05-November-2021,8:14:37 AM,-2146824584,NI_Database_API.lvlib:DB Tools List Tables.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:Create Table and Coulmns.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x800A0E78
+-Exception occured in ADODB.Connection: Operation is not allowed when the object is closed.Help Path is C:\WINDOWS\HELP\ADO270.CHM and context 1240653 in NI_Database_API.lvlib:DB Tools Open Schema.vi->NI_Database_API.lvlib:DB Tools List Tables.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:Create Table and Coulmns.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,8:14:37 AM,-2146824579,NI_Database_API.lvlib:DB Tools Create Parameterized Query.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x800A0E7D
+-Exception occured in ADODB.Command: Requested operation requires an OLE DB Session object- which is not supported by the current provider.Help Path is C:\WINDOWS\HELP\ADO270.CHM and context 1240658 in NI_Database_API.lvlib:DB Tools Create Parameterized Query.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,8:14:54 AM,-2146824584,NI_Database_API.lvlib:DB Tools List Tables.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:Create Table and Coulmns.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x800A0E78
+-Exception occured in ADODB.Connection: Operation is not allowed when the object is closed.Help Path is C:\WINDOWS\HELP\ADO270.CHM and context 1240653 in NI_Database_API.lvlib:DB Tools Open Schema.vi->NI_Database_API.lvlib:DB Tools List Tables.vi->DB Interface.lvlib:DB Interface.vi->DB Interface.lvlib:Create Table and Coulmns.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,8:14:54 AM,-2146824579,NI_Database_API.lvlib:DB Tools Create Parameterized Query.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x800A0E7D
+-Exception occured in ADODB.Command: Requested operation requires an OLE DB Session object- which is not supported by the current provider.Help Path is C:\WINDOWS\HELP\ADO270.CHM and context 1240658 in NI_Database_API.lvlib:DB Tools Create Parameterized Query.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,5:18:24 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'Amr' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,5:19:02 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'dvfdsf' for key 'Customer_Number_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,5:24:42 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'Amr' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,5:24:47 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'Amr' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,5:27:01 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'Amr' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,5:27:07 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'Amr' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,5:27:11 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'Amr' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+05-November-2021,5:51:27 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'Amr0'' at line 1 in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+06-November-2021,12:37:24 PM,-2147467259,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80004005
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Incorrect integer value: '' for column 'id' at row 1 in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+06-November-2021,12:37:33 PM,-2147467259,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80004005
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Incorrect integer value: '' for column 'id' at row 1 in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+06-November-2021,1:05:24 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry '465324' for key 'Customer_Number_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+06-November-2021,1:36:41 PM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'Hassan' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+08-November-2021,12:59:52 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'Business_Replay_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+08-November-2021,12:59:56 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'Business_Replay_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+08-November-2021,1:00:02 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'Business_Replay_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+08-November-2021,1:03:25 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'Business_Replay_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+08-November-2021,1:04:23 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'Business_Replay_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+08-November-2021,1:07:03 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'Ahmed' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,12:47:09 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry '' for key 'Customer_Number_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,12:47:15 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry '' for key 'Customer_Number_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,12:47:30 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry '' for key 'Customer_Number_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,12:47:35 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry '' for key 'Customer_Number_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,12:49:35 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'amr' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,12:49:40 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'amr2' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,1:00:52 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'amr2' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,1:01:32 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'amr2' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+10-November-2021,1:05:06 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'amr0' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+17-November-2021,9:01:27 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Get Config Data.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'risk_visit_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Get Config Data.vi->Main.vi,,
+-
+17-November-2021,9:01:46 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Get Config Data.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'risk_visit_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Get Config Data.vi->Main.vi,,
+-
+17-November-2021,9:01:58 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'risk_visit_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+17-November-2021,9:02:05 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'risk_visit_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+17-November-2021,9:03:02 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'risk_visit_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+17-November-2021,9:03:51 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'risk_visit_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+17-November-2021,9:04:22 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'risk_visit_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+17-November-2021,9:05:47 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Unknown column 'risk_visit_date' in 'field list' in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Get Data by config name.vi->Main.vi,,
+-
+17-November-2021,9:38:13 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'integer) > '1000'' at line 1 in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+17-November-2021,9:38:34 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'integer) > '1000'' at line 1 in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+17-November-2021,9:41:15 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INTEGER) > '1000'' at line 1 in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+17-November-2021,9:41:43 PM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INTEGER) > '1000'' at line 1 in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+20-November-2021,1:06:42 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'ahmed' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+20-November-2021,1:06:49 AM,-2147217900,NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Duplicate entry 'ahmed' for key 'Customer_Name_UNIQUE' in NI_Database_API.lvlib:Rec Create - Command.vi->NI_Database_API.lvlib:Cmd Execute.vi->NI_Database_API.lvlib:DB Tools Insert Data.vi->DB Interface.lvlib:DB Interface.vi->Get and Set Data.lvlib:Insert to new row in DB.vi->Main.vi,,
+-
+20-November-2021,1:55:28 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) > '30000'' at line 1 in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+20-November-2021,1:57:01 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INT) > '30000'' at line 1 in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+20-November-2021,1:57:51 AM,-2147217900,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80040E14
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INTEGER) > '30000'' at line 1 in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+20-November-2021,2:01:21 AM,-2147467259,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80004005
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Incorrect parameters in the call to stored function `cast` in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+20-November-2021,2:02:50 AM,-2147467259,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80004005
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Incorrect parameters in the call to stored function `cast` in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+20-November-2021,2:03:45 AM,-2147467259,NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x80004005
+-Exception occured in Microsoft OLE DB Provider for ODBC Drivers: [MySQL][ODBC 5.3(w) Driver][mysqld-8.0.17]Incorrect parameters in the call to stored function `cast` in NI_Database_API.lvlib:Conn Execute.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi,,
+-
+20-November-2021,3:04:40 AM,1,NI_Database_API.lvlib:DB Tools Validate Inputs.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x00000001
+-Argument error. One of the column names specified is blank.,,
+-
+20-November-2021,3:05:37 AM,1,NI_Database_API.lvlib:DB Tools Validate Inputs.vi->NI_Database_API.lvlib:DB Tools Select Data.vi->DB Interface.lvlib:DB Interface.vi->Main.vi<ERR>ADO Error: 0x00000001
+-Argument error. One of the column names specified is blank.,,
+-
